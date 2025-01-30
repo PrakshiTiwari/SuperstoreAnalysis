@@ -19,7 +19,17 @@ The sales is between the period of 2011 to 2014 image
 Dashboards:
 Sales Analysis Dashboard:
 Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
+
+
+DESCRIPTION
+1.
+The objective can be broken down into the following detailed components: Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to allow users to explore the data at various levels of granularity
+Data Analysis: Provide valuable insights to business entities regarding the effectiveness of their sales strategies through visualization and charts
+Sales Forecasting: Leverage historic data and apply time serie generate sales forecasts for next 15 days
+Actionable Insights and Recommendations: End goal is to insights and actionable information that can drive strategic deci support the supermarket's goals for growth, efficiency, satisfaction
 The company has made a Total Sales of 3 million and Total Profit of 400.9K between 2011- 2014.
 1 million worth of sales and 119.11K profit was made in 2014.
 46% of profit came from product category technology.
 Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
+
+
