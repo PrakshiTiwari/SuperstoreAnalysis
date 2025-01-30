@@ -14,3 +14,12 @@ Tools Used:
 Microsoft Power BI
 Data:
 Data Source : Superstore dataset from kaggle https://www.kaggle.com/datasets/laibaanwer/superstore-sales-dataset
+
+The sales is between the period of 2011 to 2014 image
+Dashboards:
+Sales Analysis Dashboard:
+Sales department can analyze sales and profit through this dashboard. Filter through years and quarterly sales.
+The company has made a Total Sales of 3 million and Total Profit of 400.9K between 2011- 2014.
+1 million worth of sales and 119.11K profit was made in 2014.
+46% of profit came from product category technology.
+Year 2014 March and April has seen high sales revenue and December being the holiday Season has the lowest revenue sales.
